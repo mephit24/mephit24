@@ -8,7 +8,10 @@
 * Docker
 
 ---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mephit24&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+
 [![codewars](https://www.codewars.com/users/Mephit/badges/small)](https://www.codewars.com/users/Mephit)
+
 ---
 # Пет-проекты:
 - https://github.com/mephit24/short_link  
